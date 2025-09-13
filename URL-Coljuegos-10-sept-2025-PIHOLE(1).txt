@@ -1,4 +1,4 @@
-# 
+# Yesid Fabian Muñoz
 #Lista Coljuegos 10 septiembre 2025
 # ===============================================================
 
@@ -21,7 +21,7 @@ ff02::3 ip6-allhosts
 
 
 # End of custom host records.
-# Start StevenBlack
+# Start YFMC
 
 #=====================================
 # Title: Lista Bloqueo apuestas ilegales Colombia
